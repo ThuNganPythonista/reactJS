@@ -47,4 +47,4 @@ Install React Developer Tools
 
 Install Redux DevTools
 
-
+![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%203.21.19%20PM.png)
