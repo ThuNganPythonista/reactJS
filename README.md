@@ -32,5 +32,7 @@
 
 **b)Install NodeJs and GIT scm:**
 
+![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%202.37.33%20PM.png)
+
 
 
