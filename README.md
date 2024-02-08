@@ -55,6 +55,7 @@ run this command in your terminal :
 
 `npx create-react-app my-app`
 
+After running the command, it shows the guidance
 
 
 
