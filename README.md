@@ -2,7 +2,7 @@
 
 ### Lecture 1 : Settings and Extensions needed
 
-We start to install these packages and libraries in Visual Code Studio before going to conduct a ReactJs project
+**a)We start to install these packages and libraries in Visual Code Studio before going to conduct a ReactJs project**
 
 **1**)Auto Rename Tag
 
@@ -27,3 +27,10 @@ We start to install these packages and libraries in Visual Code Studio before go
 **11**)Visual Studio Intellicode
 
 **12**)vscoded-styled-components
+
+**13**)styled-components-snippets
+
+**b)Install NodeJs and GIT scm:**
+
+
+
