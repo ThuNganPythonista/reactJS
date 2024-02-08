@@ -42,5 +42,9 @@ Install GIT scm
 
 Install React Developer Tools
 
+
 ![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%203.13.39%20PM.png)
+
+Install Redux DevTools
+
 
