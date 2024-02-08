@@ -55,7 +55,17 @@ run this command in your terminal :
 
 `npx create-react-app my-app`
 
-After running the command, it shows the guidance
+After running the command, it shows like this
+
+![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%2010.41.51%20PM.png)
+
+```
+  cd my-app
+  npm start
+```
+
+Running these two commands, its output will be the localhost page like this :
+
 
 
 
