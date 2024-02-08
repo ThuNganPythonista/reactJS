@@ -66,6 +66,10 @@ After running the command, it shows like this
 
 Running these two commands, its output will be the localhost page like this :
 
+![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%2010.46.27%20PM.png)
+
+Back to its folder, we have these modules. Let's break down the meaning and function of each file.
+
 
 
 
