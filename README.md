@@ -38,5 +38,9 @@ Install NodeJs
 
 Install GIT scm
 
-![image]()
+![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%203.10.34%20PM.png)
+
+Install React Developer Tools
+
+
 
