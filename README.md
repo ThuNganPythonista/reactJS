@@ -48,3 +48,13 @@ Install React Developer Tools
 Install Redux DevTools
 
 ![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%203.21.19%20PM.png)
+
+### Lecture 2 : Create react app (Toolchain)
+
+run this command in your terminal :
+
+`npx create-react-app my-app`
+
+
+
+
