@@ -71,5 +71,13 @@ Running these two commands, its output will be the localhost page like this :
 Back to its folder, we have these modules. Let's break down the meaning and function of each file.
 
 
+![image](https://github.com/ThuNganPythonista/reactJS/blob/main/Screenshot%202024-02-08%20at%2010.49.23%20PM.png)
+
+
+### Lecture 3 : What is component ?
+
+
+
+
 
 
